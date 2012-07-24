@@ -17,7 +17,7 @@ Known Issues:
 
 
 Author: Ian Stewart
-	istewart@calpoly.edu
+	ikstewa@gmail.com
 Date:	Nov 16, 2008
 
 References:
